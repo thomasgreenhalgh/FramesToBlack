@@ -1,5 +1,5 @@
 # FramesToBlack
-
+Chris Forrester's idea
 
 ![alt text](https://github.com/thomasgreenhalgh/Uploads/blob/main/Screenshot%202024-11-11%20at%2020.47.45.png)
 
